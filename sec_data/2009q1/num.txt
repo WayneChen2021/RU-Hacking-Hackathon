@@ -1,1 +1,0 @@
-adsh	tag	version	coreg	ddate	qtrs	uom	value	footnote
